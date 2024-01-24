@@ -1,0 +1,21 @@
+img{
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(30, 52, 175);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    padding-left:10%;
+    padding-right: 10%;
+    color: white;
+    text-decoration: none;
+}
+
+.Reviews{
+    
+}
