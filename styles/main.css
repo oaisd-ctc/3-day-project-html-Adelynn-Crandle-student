@@ -53,3 +53,11 @@ p{
     margin-left: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+a:hover {
+    background-color:#f1bc49;
+    padding-left:10%;
+    padding-right: 10%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
