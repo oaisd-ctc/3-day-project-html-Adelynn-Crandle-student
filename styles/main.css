@@ -1,12 +1,17 @@
 img{
-    text-align: center;
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 nav {
-    background-color: rgb(30, 52, 175);
+    background-color:#ECCE8E;
     text-align: center;
     display: flex;
     justify-content: space-between;
+    padding: 10px;
 }
 
 a {
@@ -14,9 +19,37 @@ a {
     padding-right: 10%;
     color: white;
     text-decoration: none;
+
+} 
+    
+header{
+    background-color:rgb(30, 52, 175);
+    padding: 1rem; 
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-color:aliceblue;
+}
+
+.heading{
+    font-family: fantasy;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p{
+    font-size:large;
+    width: 1250px;
+}
+
+.thingy{
+    margin-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .Reviews{
-    
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-header{align-self: center;}
